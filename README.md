@@ -74,11 +74,11 @@
 ## 📊 Stats That Speak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhattaman0001&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattaman0001&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanBhattShorthillsAI&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanBhattShorthillsAI&theme=radical" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaman0001&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBhattShorthillsAI&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
